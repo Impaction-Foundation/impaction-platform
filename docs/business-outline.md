@@ -1,10 +1,3 @@
----
-description: '- Pioneering Verifiable Climate Action'
-cover: >-
-  https://images.unsplash.com/photo-1634176866089-b633f4aec882?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlYXJ0aHxlbnwwfHx8fDE3NTIzNzIzMTR8MA&ixlib=rb-4.1.0&q=85
-coverY: 0
----
-
 <img src="https://images.unsplash.com/photo-1634176866089-b633f4aec882?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlYXJ0aHxlbnwwfHx8fDE3NTIzNzIzMTR8MA&ixlib=rb-4.1.0&q=85" alt="Impaction Global Cover" width="100%" style="height: 300px; object-fit: cover; object-position: center;">
 
 # 🧭 Business Outline: Phase 1

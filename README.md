@@ -1,12 +1,3 @@
----
-description: >-
-  Impaction Global: Planetary Philanthropy, Corporate Collectivism & Future of
-  Giving
-cover: >-
-  https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxlYXJ0aHxlbnwwfHx8fDE3NTIzNzIzMTR8MA&ixlib=rb-4.1.0&q=85
-coverY: 490.27651792245797
----
-
 <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxlYXJ0aHxlbnwwfHx8fDE3NTIzNzIzMTR8MA&ixlib=rb-4.1.0&q=85" alt="Impaction Global Cover" width="100%" style="height: 300px; object-fit: cover; object-position: center;">
 
 # 📄 White Paper: Phase 1
