@@ -1,0 +1,16 @@
+# Block all crawlers from all pages except /mission
+User-agent: *
+Disallow: /
+Allow: /mission
+Allow: /mission/
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Disallow: /
+Allow: /mission
+Allow: /mission/
+
+User-agent: Bingbot
+Disallow: /
+Allow: /mission
+Allow: /mission/

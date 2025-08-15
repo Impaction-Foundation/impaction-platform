@@ -1,0 +1,170 @@
+{
+  "categories": {
+    "individual": {
+      "name": "Individual Carbon Footprint",
+      "description": "Calculate personal carbon emissions across various lifestyle categories",
+      "subcategories": [
+        {
+          "id": "travel",
+          "name": "Travel",
+          "icon": "✈️",
+          "description": "Air, ground, and maritime transportation emissions",
+          "factors": [
+            "Distance traveled",
+            "Mode of transport",
+            "Frequency",
+            "Vehicle efficiency"
+          ]
+        },
+        {
+          "id": "property",
+          "name": "Property",
+          "icon": "🏡",
+          "description": "Home energy use and utilities",
+          "factors": [
+            "Energy consumption",
+            "Heating/cooling type",
+            "Property size",
+            "Renewable energy usage"
+          ]
+        },
+        {
+          "id": "nutrition",
+          "name": "Nutrition",
+          "icon": "🍲",
+          "description": "Food consumption and dietary choices",
+          "factors": [
+            "Diet type",
+            "Food sourcing",
+            "Food waste",
+            "Packaging"
+          ]
+        },
+        {
+          "id": "pets",
+          "name": "Pets",
+          "icon": "🐴",
+          "description": "Pet-related carbon emissions",
+          "factors": [
+            "Pet type and size",
+            "Food consumption",
+            "Care products",
+            "Veterinary services"
+          ]
+        },
+        {
+          "id": "technology",
+          "name": "Technology",
+          "icon": "💻",
+          "description": "Digital devices and online activities",
+          "factors": [
+            "Device ownership",
+            "Usage patterns",
+            "Cloud storage",
+            "Streaming services"
+          ]
+        },
+        {
+          "id": "shopping",
+          "name": "Shopping",
+          "icon": "🛍️",
+          "description": "Consumer goods and services",
+          "factors": [
+            "Clothing purchases",
+            "Electronics",
+            "Furniture",
+            "General consumer goods"
+          ]
+        }
+      ]
+    },
+    "business": {
+      "name": "Business Carbon Footprint",
+      "description": "Comprehensive organizational emissions tracking",
+      "scopes": [
+        {
+          "id": "scope1",
+          "name": "Scope 1 - Direct Emissions",
+          "description": "Emissions from sources owned or controlled by the organization",
+          "examples": [
+            "Company vehicles",
+            "On-site fuel combustion",
+            "Manufacturing processes",
+            "Refrigerant leaks"
+          ]
+        },
+        {
+          "id": "scope2",
+          "name": "Scope 2 - Indirect Emissions",
+          "description": "Emissions from purchased electricity, heat, and cooling",
+          "examples": [
+            "Purchased electricity",
+            "Purchased steam",
+            "Purchased heating",
+            "Purchased cooling"
+          ]
+        },
+        {
+          "id": "scope3",
+          "name": "Scope 3 - Value Chain Emissions",
+          "description": "All other indirect emissions in the value chain",
+          "examples": [
+            "Business travel",
+            "Employee commuting",
+            "Supply chain",
+            "Product use and disposal"
+          ]
+        }
+      ]
+    }
+  },
+  "calculation_standards": [
+    "GHG Protocol",
+    "ISO 14064",
+    "PAS 2050",
+    "CDP Reporting"
+  ],
+  "data_sources": [
+    "Government emissions databases",
+    "IPCC emission factors",
+    "Industry-specific research",
+    "Regional energy grid data"
+  ],
+  "sdg_alignment": {
+    "primary": [
+      {
+        "number": 13,
+        "name": "Climate Action",
+        "relevance": "Direct impact on climate change mitigation"
+      },
+      {
+        "number": 7,
+        "name": "Affordable and Clean Energy",
+        "relevance": "Promoting renewable energy adoption"
+      },
+      {
+        "number": 12,
+        "name": "Responsible Consumption and Production",
+        "relevance": "Encouraging sustainable practices"
+      }
+    ],
+    "secondary": [
+      {
+        "number": 11,
+        "name": "Sustainable Cities and Communities"
+      },
+      {
+        "number": 15,
+        "name": "Life on Land"
+      },
+      {
+        "number": 14,
+        "name": "Life Below Water"
+      },
+      {
+        "number": 3,
+        "name": "Good Health and Well-being"
+      }
+    ]
+  }
+}
