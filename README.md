@@ -95,9 +95,9 @@ Our technological backbone supports sustainability, efficiency, and broad access
 
 #### 3.1 Our "Lean Web3": 2030 Philosophy
 
-Commitment to Environmental Sustainability: Impaction Global is built on the fundamental principle that technology must serve its mission without undermining it. Therefore, our core operational infrastructure is deliberately designed to emphatically avoid the high energy consumption using Hedera one of the most sustainable protocols
+Commitment to Environmental Sustainability: Impaction Global is built on the fundamental principle that technology must serve its mission without undermining it. Therefore, our core operational infrastructure is deliberately designed to emphatically avoid the high energy consumption using one of the most sustainable protocols
 
-* **Proof-of-Stake (PoS) Networks:** We strategically prioritize highly energy-efficient PoS networks (e.g., Ethereum Layer 2 solutions, Hedera Hashgraph) for their significantly lower energy footprint, superior transaction throughput, and strong economic finality, ensuring our operations are environmentally responsible by design.
+* **Proof-of-Stake (PoS) Networks:** We strategically prioritize highly energy-efficient PoS networks (e.g., Ethereum Layer 2 solutions) for their significantly lower energy footprint, superior transaction throughput, and strong economic finality, ensuring our operations are environmentally responsible by design.
 * **Efficiency-First Smart Contracts:** Our smart contracts will be optimized for gas efficiency and minimal computational overhead, further reducing the environmental impact of on-chain operations and ensuring cost-effective transactions for users.
 * **Layer 2 (L2) Scaling Solutions:** For optimal scalability, dramatically reduced transaction costs, and enhanced user experience, we extensively utilize L2 scaling solutions
 
